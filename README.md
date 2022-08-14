@@ -3,7 +3,7 @@
 <h3 align="center">Programming start</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eumotta&show_icons=true&theme=radical">
 <img align="left" width="47%"  src="https://activity-graph.herokuapp.com/graph?username=eumotta&theme=dracula">
-
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <a  href="https://open.spotify.com/user/ia4q34h0cezjl0kbeve3gj8oz?si=e9d3542e35774e33"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/callmotta/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
