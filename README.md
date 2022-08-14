@@ -1,8 +1,8 @@
 <img align="center" width="100%"  src="https://i.ibb.co/yqr9XHK/banner.png">
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"> I'm José Antonio Motta</h1>
 
 <p align="center"> 
-  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem+vindo+ao+meu+GitHub!;Iniciante+em+Front+e+Back+end."></h2>
+  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=550&height=150&lines=%F0%9F%98%83+Ol%C3%A1+a+todos!;+Eu+Sou+Jos%C3%A9+Antonio.;Seja+bem+vindo+ao+meu+GitHub!"></h2>
+
 </p>
 <div align="left">
 
@@ -13,9 +13,13 @@
   </a>
 </p>
 
+<p align="center">
+  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=800&height=150&lines=Desenvolvedor+iniciante+em+Front+%2F+Back-End;Com+destaque+em+HTML5+%2F+C%23+%2F+JAVA;Confira+abaixo+%E2%98%9F"></h2>
+</p>
+
 # 💫 About Me:
 
-* 🌱 I’m currently studiyng on:  **Fatec Guaratinguetá**
+* <img width="2%"  src="https://i.ibb.co/W6Vxq6M/arrow-right-motta.gif"> I’m currently studiyng on:  **Fatec Guaratinguetá**
 * 📕 I’m currently learning:  **Java, C#, HTML5, CSS3**
 * 📫 How to reach me:  <a href="https://www.instagram.com/callmotta/">Instagram</a>
 * 🎓 I'm a Student
