@@ -1,9 +1,22 @@
 <img align="center" width="100%"  src="https://i.ibb.co/yqr9XHK/banner.png">
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50"> My name is José Antonio Motta</h1>
-<h3 align="center">Programming beginner</h3>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=eumotta&show_icons=true&theme=radical">
-<img align="left" width="47%"  src="https://activity-graph.herokuapp.com/graph?username=eumotta&theme=dracula">
-<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+<p align="center"> 
+  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Seja+bem+vindo+ao+meu+GitHub!;Iniciante+em+Front+e+Back+end."></h2>
+</p>
+<div align="center">
+<h1> <img width="3%" src="https://freeiconshop.com/wp-content/uploads/edd/upward-trend-flat.png"> GitHub Stats :</h1>
+
+
+![](https://github-readme-stats.vercel.app/api?username=eumotta&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=radical&hide_border=false)
+</div>
+
+<div align="center">
+<h1> <img width="3%" src="https://freeiconshop.com/wp-content/uploads/edd/document-flat.png"> About Me :</h1>
+</div>
+
 <a  href="https://open.spotify.com/user/ia4q34h0cezjl0kbeve3gj8oz?si=e9d3542e35774e33"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/callmotta/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
