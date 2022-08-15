@@ -6,7 +6,7 @@
 </p>
 <div align="left">
 
-## 🔥 My contribution streak
+## <img width="3%"  src="https://i.ibb.co/92LtzQ6/Sizcevide-motta.gif"> My contribution streak
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta"/>
@@ -17,7 +17,7 @@
   <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=800&height=150&lines=Desenvolvedor+iniciante+em+Front+%2F+Back-End;Com+destaque+em+HTML5+%2F+C%23+%2F+JAVA;Confira+abaixo+%E2%98%9F"></h2>
 </p>
 
-# 💫 About Me:
+# <img width="3%"  src="https://i.ibb.co/qjTH8Bt/stars-motta.gif"> About Me:
 
 * <img width="2%"  src="https://i.ibb.co/W6Vxq6M/arrow-right-motta.gif">・I’m currently studiyng on:  **Fatec Guaratinguetá**
 * <img width="2%"  src="https://i.ibb.co/sPphc9y/bbook-motta.gif">・I’m currently learning:  **Java, C#, HTML5, CSS3**
@@ -29,7 +29,7 @@
 </p>
 
 
-## 🌐 Socials:
+# <img width="3%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif"> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmotta) 
 # 📊 GitHub Stats:
 
