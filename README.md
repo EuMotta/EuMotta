@@ -1,5 +1,5 @@
 <img align="center" width="100%"  src="https://i.ibb.co/yqr9XHK/banner.png">
-
+<img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
 <p align="center"> 
   <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=550&height=150&lines=%F0%9F%98%83+Ol%C3%A1+a+todos!;+Eu+Sou+Jos%C3%A9+Antonio.;Seja+bem+vindo+ao+meu+GitHub!"></h2>
 
@@ -12,6 +12,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false"/>
   </a>
 </p>
+ <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
 
 <p align="center">
   <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=800&height=150&lines=Desenvolvedor+iniciante+em+Front+%2F+Back-End;Com+destaque+em+HTML5+%2F+C%23+%2F+JAVA;Confira+abaixo+%E2%98%9F"></h2>
@@ -27,7 +28,6 @@
   <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
     <a href="">
 </p>
-
 
 # <img width="3%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif"> Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmotta) 
@@ -67,11 +67,15 @@
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
         </tr>
     </tbody>
+   
 </table>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+   
+<div>
+<img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
+   </div>
+   
 
-
----
 [![](https://visitcount.itsvg.in/api?id=EuMotta&icon=0&color=0)](https://visitcount.itsvg.in)
