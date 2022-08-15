@@ -9,7 +9,7 @@
 ## <img width="3%"  src="https://i.ibb.co/92LtzQ6/Sizcevide-motta.gif"> My contribution streak
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false"/>
   </a>
 </p>
 
@@ -36,14 +36,14 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/eumotta/github-readme-stats"><img alt="Motta Github Stats" src="https://github-readme-stats.vercel.app/api?username=eumotta&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/eumotta/github-readme-stats"><img alt="Motta Github Stats" src="https://github-readme-stats.vercel.app/api?username=eumotta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></a>
    
       
 </details>
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
- <a href="https://github.com/eumotta/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuMotta&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></a>
+ <a href="https://github.com/eumotta/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumotta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
