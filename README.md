@@ -77,5 +77,9 @@
 <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
    </div>
    
+   <p align="center">
+  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1700&pause=500&center=true&vCenter=true&width=600&lines=%F0%9F%98%83Obrigado+por+visitar+minha+p%C3%A1gina!;Volte+sempre!"></h2>
+</p>
+   
 
 [![](https://visitcount.itsvg.in/api?id=EuMotta&icon=0&color=0)](https://visitcount.itsvg.in)
