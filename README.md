@@ -1,4 +1,5 @@
-<img align="center" width="100%"  src="https://i.ibb.co/yqr9XHK/banner.png">
+<img align="center" width="100%"  src="https://i.ibb.co/pfjDZrJ/eumotta.png">
+<img width="50%"  src="https://i.ibb.co/SVkvNyV/EUMOTTA.gif">
 <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
 <p align="center"> 
   <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=550&height=150&lines=%F0%9F%98%83+Ol%C3%A1+a+todos!;+Eu+Sou+Jos%C3%A9+Antonio.;Seja+bem+vindo+ao+meu+GitHub!"></h2>
