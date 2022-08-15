@@ -19,11 +19,10 @@
 
 # 💫 About Me:
 
-* <img width="2%"  src="https://i.ibb.co/W6Vxq6M/arrow-right-motta.gif"> I’m currently studiyng on:  **Fatec Guaratinguetá**
-* 📕 I’m currently learning:  **Java, C#, HTML5, CSS3**
-* 📫 How to reach me:  <a href="https://www.instagram.com/callmotta/">Instagram</a>
-* 🎓 I'm a Student
-* ⚡ Fun fact:  **TOC**
+* <img width="2%"  src="https://i.ibb.co/W6Vxq6M/arrow-right-motta.gif">・I’m currently studiyng on:  **Fatec Guaratinguetá**
+* <img width="2%"  src="https://i.ibb.co/sPphc9y/bbook-motta.gif">・I’m currently learning:  **Java, C#, HTML5, CSS3**
+* <img width="2%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif">・How to reach me:  <a href="https://www.instagram.com/callmotta/">Instagram</a>
+* <img width="2%"  src="https://i.ibb.co/6YfN22V/Pepesaber-motta.gif">・Fun fact:  **TOC**
 <p align="left">
   <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
     <a href="">
