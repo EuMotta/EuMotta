@@ -26,22 +26,14 @@
 * <img width="2%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif">・How to reach me:  <a href="https://www.instagram.com/callmotta/">Instagram</a>
 * <img width="2%"  src="https://i.ibb.co/6YfN22V/Pepesaber-motta.gif">・Fun fact:  **TOC**
 <p align="left">
-  <a href=""><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="">
 </p>
 
-<h1 align="center">
-<img width="3%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif"> Socials:
-
-</h1>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmotta) 
-# 📊 Contributions:
+## 📊 Contributions:
 
 <details>
   <summary>My contribution streak</summary>
   <br/>
-  <a href="https://github.com/eumotta/github-readme-stats"><img alt="Motta Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false" /></a>    
+  <a href="https://github.com/eumotta/github-readme-stats"><img width="50%" alt="Motta Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false" /></a>    
 </details>
 
 # 💻 Tech Stack:
