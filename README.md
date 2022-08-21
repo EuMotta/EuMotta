@@ -2,7 +2,7 @@
 
 
 <p align="center" width="30"> 
-  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=550&height=150&lines=%F0%9F%98%83+Ol%C3%A1+a+todos!;+Eu+Sou+Jos%C3%A9+Antonio.;Seja+bem+vindo+ao+meu+GitHub!"></h2>
+  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=700&height=126&lines=Ol%C3%A1!%F0%9F%98%8A;Eu+sou+Jos%C3%A9+Antonio+Motta.;Seja+Bem-Vindo+ao+meu+GitHub!"></h2>
   
   <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
 
