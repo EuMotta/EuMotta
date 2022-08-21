@@ -1,27 +1,25 @@
 <img align="center" width="100%"  src="https://i.ibb.co/N69DdjD/github-header-image-motta.png">
-<img width="50%"  src="https://i.ibb.co/SVkvNyV/EUMOTTA.gif">
-<img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
-<p align="center"> 
-  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=550&height=150&lines=%F0%9F%98%83+Ol%C3%A1+a+todos!;+Eu+Sou+Jos%C3%A9+Antonio.;Seja+bem+vindo+ao+meu+GitHub!"></h2>
 
-</p>
+
+<p align="center" width="30"> 
+  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=550&height=150&lines=%F0%9F%98%83+Ol%C3%A1+a+todos!;+Eu+Sou+Jos%C3%A9+Antonio.;Seja+bem+vindo+ao+meu+GitHub!"></h2>
+  
+  <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
+
+[<img align="left" width="390" alt="🦑" src="https://metrics.lecoq.io/eumotta?template=classic&isocalendar=1&languages=1&stargazers=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=less&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FSao_Paulo">](#)
+
 <div align="left">
 
-## <img width="3%"  src="https://i.ibb.co/92LtzQ6/Sizcevide-motta.gif"> My contribution streak
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false"/>
-  </a>
-</p>
- <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
-
-<p align="center">
-  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=5B9EFF&background=63FF6B00&center=true&vCenter=true&width=800&height=150&lines=Desenvolvedor+iniciante+em+Front+%2F+Back-End;Com+destaque+em+HTML5+%2F+C%23+%2F+JAVA;Confira+abaixo+%E2%98%9F"></h2>
+  <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&center=true&vCenter=true&multiline=true&height=126&lines=Minhas+informa%C3%A7%C3%B5es;Redes+sociais;Confira+Abaixo+%E2%98%9F"></h2>
 </p>
 
-# <img width="3%"  src="https://i.ibb.co/qjTH8Bt/stars-motta.gif"> About Me:
 
-<img align="right" height="200px" alt="GIF" src="https://i.ibb.co/NrSpL1T/Animation-motta.gif" />
+<h1 align="center">
+ <img width="3%"  src="https://i.ibb.co/qjTH8Bt/stars-motta.gif"> About Me:
+</h1>
+
+<img align="right" height="150px" alt="GIF" src="https://i.ibb.co/NrSpL1T/Animation-motta.gif" />
 
 * <img width="2%"  src="https://i.ibb.co/W6Vxq6M/arrow-right-motta.gif">・I’m currently studiyng on:  **Fatec Guaratinguetá**
 * <img width="2%"  src="https://i.ibb.co/sPphc9y/bbook-motta.gif">・I’m currently learning:  **Java, C#, HTML5, CSS3**
@@ -32,23 +30,18 @@
     <a href="">
 </p>
 
-# <img width="3%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif"> Socials:
+<h1 align="center">
+<img width="3%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif"> Socials:
+
+</h1>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callmotta) 
-# 📊 GitHub Stats:
+# 📊 Contributions:
 
 <details>
-  <summary>📊 GitHub Profile Stats</summary>
+  <summary>My contribution streak</summary>
   <br/>
-  <a href="https://github.com/eumotta/github-readme-stats"><img alt="Motta Github Stats" src="https://github-readme-stats.vercel.app/api?username=eumotta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" /></a>
-   
-      
-</details>
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
- <a href="https://github.com/eumotta/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumotta&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+  <a href="https://github.com/eumotta/github-readme-stats"><img alt="Motta Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false" /></a>    
 </details>
 
 # 💻 Tech Stack:
@@ -73,12 +66,21 @@
    
 </table>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-   
-<div>
-<img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
-   </div>
+</div>
+
+<img width="50%"  src="https://i.ibb.co/SVkvNyV/EUMOTTA.gif">
+
+</p>
+<div align="left">
+
+## <img width="3%"  src="https://i.ibb.co/92LtzQ6/Sizcevide-motta.gif"> My contribution streak
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false"/>
+  </a>
+</p>
+ <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
+
    
    <p align="center">
   <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1700&pause=500&center=true&vCenter=true&width=600&lines=%F0%9F%98%83Obrigado+por+visitar+minha+p%C3%A1gina!;Volte+sempre!"></h2>
