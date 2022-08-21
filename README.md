@@ -6,7 +6,7 @@
   
   <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
 
-[<img align="left" width="390" alt="🦑" src="https://metrics.lecoq.io/eumotta?template=classic&isocalendar=1&languages=1&stargazers=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=less&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FSao_Paulo">](#)
+[<img align="left" width="390" alt="🦑" src="https://metrics.lecoq.io/eumotta?template=classic&languages=1&activity=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&languages=false&languages.ignored=less&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=America%2FSao_Paulo&config.octicon=true">](#)
 
 <div align="left">
 
@@ -73,12 +73,6 @@
 </p>
 <div align="left">
 
-## <img width="3%"  src="https://i.ibb.co/92LtzQ6/Sizcevide-motta.gif"> My contribution streak
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false"/>
-  </a>
-</p>
  <img src="https://i.ibb.co/0mNhnM5/line-motta.gif">
 
    
