@@ -19,7 +19,7 @@
  <img width="3%"  src="https://i.ibb.co/qjTH8Bt/stars-motta.gif"> About Me:
 </h1>
 
-<img align="right" height="150px" alt="GIF" src="https://i.ibb.co/NrSpL1T/Animation-motta.gif" />
+<img align="right" height="200px" alt="GIF" src="https://i.ibb.co/34c2112/download.png" />
 
 * <img width="2%"  src="https://i.ibb.co/W6Vxq6M/arrow-right-motta.gif">・I’m currently studiyng on:  **Fatec Guaratinguetá.**
 * <img width="2%"  src="https://i.ibb.co/sPphc9y/bbook-motta.gif">・I’m currently learning:  **Java, C#, HTML5, CSS3.**
