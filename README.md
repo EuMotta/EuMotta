@@ -24,7 +24,7 @@
 * <img width="2%"  src="https://i.ibb.co/W6Vxq6M/arrow-right-motta.gif">・I’m currently studiyng on:  **Fatec Guaratinguetá.**
 * <img width="2%"  src="https://i.ibb.co/sPphc9y/bbook-motta.gif">・I’m currently learning:  **Java, C#, HTML5, CSS3.**
 * <img width="2%"  src="https://i.ibb.co/LnvL8YY/Verify-motta.gif">・How to reach me:  <a href="https://www.instagram.com/callmotta/">Instagram</a>.
-* <img width="2%"  src="https://i.ibb.co/6YfN22V/Pepesaber-motta.gif">・Fun fact:  **TOC**.
+* <img width="2%"  src="https://i.ibb.co/6YfN22V/Pepesaber-motta.gif">・Fun fact:  **Transtorno Obsessivo Compulsivo**.
 <p align="left">
 </p>
 
