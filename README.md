@@ -31,7 +31,7 @@
 ## 📊 Contributions:
 
 <details>
-  <summary>My contribution streak</summary>
+  <summary>Minhas contribuições</summary>
   <br/>
   <a href="https://github.com/eumotta/github-readme-stats"><img width="50%" alt="Motta Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=eumotta&theme=tokyonight&hide_border=false" /></a>    
 </details>
