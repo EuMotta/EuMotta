@@ -28,7 +28,7 @@
 <p align="left">
 </p>
 
-## 📊 Contributions:
+## 📊 Contribuições:
 
 <details>
   <summary>Minhas contribuições</summary>
