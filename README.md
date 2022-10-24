@@ -60,7 +60,7 @@
 
 </div>
 
-<img width="50%"  src="https://i.ibb.co/SVkvNyV/EUMOTTA.gif">
+<img width="49%"  src="https://i.ibb.co/SVkvNyV/EUMOTTA.gif">
 
 </p>
 <div align="left">
