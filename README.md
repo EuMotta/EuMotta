@@ -16,7 +16,7 @@
 
 
 <h1 align="center">
- <img width="3%"  src="https://i.ibb.co/qjTH8Bt/stars-motta.gif"> About Me:
+ <img width="4%"  src="https://i.ibb.co/qjTH8Bt/stars-motta.gif"> About Me:
 </h1>
 
 <img align="right" height="200px" alt="GIF" src="https://i.ibb.co/34c2112/download.png" />
