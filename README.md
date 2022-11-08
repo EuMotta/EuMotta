@@ -1,4 +1,4 @@
-<img align="center" width="100%"  src="https://i.ibb.co/N69DdjD/github-header-image-motta.png">
+<img width="100%"  src="https://i.ibb.co/N69DdjD/github-header-image-motta.png">
 
 
 <p align="center" width="30"> 
