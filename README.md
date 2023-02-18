@@ -10,9 +10,12 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eumotta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<div align="center">
+  
+![](https://github-profile-trophy.vercel.app/?username=eumotta&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=eumotta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer&text=Welcome+To+My+Profile!&fontSize=40&fontColor=fff"/>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=180&section=footer&text=Thank+You!&fontSize=20&fontColor=fff&fontAlignY=75"/>
