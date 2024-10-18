@@ -12,7 +12,7 @@
 
 <p>
   
-Oi 👋, eu sou **José Antonio Motta**, um desenvolvedor com foco em Next.js e React. Foco na criação de aplicações web eficientes e escaláveis, utilizando frameworks modernos de JavaScript. Gosto de colaborar, aprender novas tecnologias e contribuir para projetos inovadores ✨
+Oi 👋, eu sou **José Antonio Motta**, um desenvolvedor com foco em Next.js e React na criação de aplicações web. ✨
 
 <div>
 <details>
