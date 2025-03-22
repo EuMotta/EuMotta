@@ -1,4 +1,4 @@
-<a href="https://top.gg/bot/623481583411658753">
+<a href="">
     <img src="https://i.ibb.co/t3hvppp/Black-Minimal-Motivation-Quote-Linked-In-Banner-1.png" style="width: 100%; height: auto;"/>
 </a>
 <p align="center">
